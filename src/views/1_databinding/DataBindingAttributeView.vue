@@ -15,7 +15,7 @@ export default {
   components: {},
   data() {
     return {
-      userId: 'kijun.lee.2022',
+      userId: 'kijun.lee.2022.08',
       userName: '이기준',
       imgSrc: 'https://cdn.mhns.co.kr/news/photo/202203/523953_634618_3856.jpg',
       txt1: ''
